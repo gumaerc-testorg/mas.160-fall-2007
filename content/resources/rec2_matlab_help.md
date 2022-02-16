@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Recitation handout on using MATLAB for the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-160-signals-systems-and-information-for-media-technology-fall-2007/c89d6b542f7a34eb5c6f33342a20c176_rec2_matlab_help.pdf
+file: /media/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/c89d6b542f7a34eb5c6f33342a20c176_rec2_matlab_help.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: MATLAB help sheet
 uid: c89d6b54-2f7a-34eb-5c6f-33342a20c176
