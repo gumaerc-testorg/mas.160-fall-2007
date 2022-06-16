@@ -1,9 +1,17 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, additional
+  assignments for graduate credit, prerequisites, texts, computer facilities, exams,
+  grading, collaboration policies, late homework, and the schedule of lecture topics
+  and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 03f77942-26d2-fad4-c218-a202b27a509d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -40,7 +48,7 @@ Texts
 
 McClellan, J. H., R. W. Schafer, and M. A. Yoder. _DSP First: A Multimedia Approach_. East Rutherford, NJ: Prentice Hall, 1998. ISBN: 9780132431712.
 
-Shannon, C. E., and W. Weaver. _The Mathematical Theory of Communication_. Champaign, IL: University of Illinois Press, 1998. ISBN: 9780252725463. \[Download a copy of the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[original 1948 paper by Shannon (PDF - 4.43MB)](http://www.essrl.wustl.edu/~jao/itrg/shannon.pdf), upon which the book is based, from Bell Labs.\]
+Shannon, C. E., and W. Weaver. _The Mathematical Theory of Communication_. Champaign, IL: University of Illinois Press, 1998. ISBN: 9780252725463. \[Download a copy of the [original 1948 paper by Shannon (PDF - 4.43MB)](http://www.essrl.wustl.edu/~jao/itrg/shannon.pdf), upon which the book is based, from Bell Labs.\]
 
 ### Recommended for those who want more help
 

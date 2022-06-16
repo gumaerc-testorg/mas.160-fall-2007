@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of readings and information on the
+  course textbooks.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 9d8ab809-13c0-2739-bcc1-42335cfb478b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Texts
@@ -14,7 +20,7 @@ Texts
 
 \[MSY\] McClellan, J. H., R. W. Schafer, and M. A. Yoder. _DSP First: A Multimedia Approach_. East Rutherford, NJ: Prentice Hall, 1998. ISBN: 9780132431712.
 
-Shannon, C. E., and W. Weaver. _The Mathematical Theory of Communication_. Champaign, IL: University of Illinois Press, 1998. ISBN: 9780252725463. \[Download a copy of the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[original 1948 paper by Shannon (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), upon which the book is based, from Bell Labs.\]
+Shannon, C. E., and W. Weaver. _The Mathematical Theory of Communication_. Champaign, IL: University of Illinois Press, 1998. ISBN: 9780252725463. \[Download a copy of the [original 1948 paper by Shannon (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), upon which the book is based, from Bell Labs.\]
 
 ### Recommended for those who want more help
 
@@ -122,7 +128,7 @@ Definition of orthogonality; Walsh functions and other basis sets; discrete Four
 
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on basis functions ([PDF]({{< baseurl >}}/resources/0919_basis))
+Notes on basis functions ({{% resource_link c9d17ae8-2425-e19a-0a68-764e96b8a60c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +220,7 @@ Discrete channels with noise; continuous channels; error detection and correctio
 
 Shannon and Weaver, pp. 65-80.
 
-Handout on error-correcting codes ([PDF]({{< baseurl >}}/resources/1017_error))
+Handout on error-correcting codes ({{% resource_link 94144b6c-c83d-f4be-a4f9-cef22c91baf4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -362,11 +368,11 @@ MSY 8.1-8.5
 
 Notes from prior years
 
-Z-transforms: part I ([PDF]({{< baseurl >}}/resources/1121_zx1))
+Z-transforms: part I ({{% resource_link 3554d860-cdff-c578-1821-592e9d99dba3 "PDF" %}})
 
-Z-transforms: part II ([PDF]({{< baseurl >}}/resources/1121_zx2))
+Z-transforms: part II ({{% resource_link 9d171c9c-6ead-6c73-7391-369c0ae6395a "PDF" %}})
 
-Partial fraction expansion ([PDF]({{< baseurl >}}/resources/1121_partial_fra))
+Partial fraction expansion ({{% resource_link e1d0af0a-fe69-7e8f-48bf-2b582508fb67 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -460,7 +466,7 @@ Real-world modulation and demodulation methods; spread-spectrum
 
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on modulation ([PDF]({{< baseurl >}}/resources/1210_modulation))
+Notes on modulation ({{% resource_link 7df297c0-c228-664d-ad63-91e7c325cbbf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
