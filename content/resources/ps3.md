@@ -6,6 +6,7 @@ file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on basis functions, AM and sampling, frequency, sampling and bit rate, non-ideal D-to-C conversion, and representing irrational frequencies.
-
