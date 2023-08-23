@@ -34,4 +34,3 @@ video_metadata:
   youtube_id: ''
 ---
 This course explores the mathematical foundations of digital media. For instance, see recitations 6 and 7 for an explanation of MP3 compression using the phrase "How much wood can a woodchuck chuck?" (iPod photo courtesy of GUM.)
-
