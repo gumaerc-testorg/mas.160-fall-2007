@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on simple psychoacoustic masking, Markoff processes, entropy,
   and grading, entropy coding, error correction, and data compression.
 file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/bc45046e3a8daad2bd8361f7f09ef8dc_ps4.pdf
+file_size: 163676
 file_type: application/pdf
 learning_resource_types:
 - Assignments

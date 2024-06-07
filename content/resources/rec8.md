@@ -3,6 +3,7 @@ content_type: resource
 description: Recitation notes on FIR filters, impulse response, convolution, and block
   diagrams.
 file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/ee27328f66c3c7c063eaa392474bca76_rec8.pdf
+file_size: 571915
 file_type: application/pdf
 learning_resource_types:
 - Recitations
