@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout on partial fraction expansion.
 file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/e1d0af0afe697e8f48bf2b582508fb67_1121_partial_fra.pdf
+file_size: 170631
 file_type: application/pdf
 learning_resource_types:
 - Readings

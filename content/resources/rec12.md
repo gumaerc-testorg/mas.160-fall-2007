@@ -3,6 +3,7 @@ content_type: resource
 description: Recitation notes on phase, equivalent system representation, filter design,
   windows, and cepstrum analysis
 file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/11a8dc9fd2432487135de7ef21f81b17_rec12.pdf
+file_size: 2824353
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -3,6 +3,7 @@ content_type: resource
 description: Recitation notes on information theory, discrete Markov chains, entropy,
   compression, Huffman coding, and error correction.
 file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/cabdc1fc461763602ea8c13432503e1f_rec7.pdf
+file_size: 437397
 file_type: application/pdf
 learning_resource_types:
 - Recitations
