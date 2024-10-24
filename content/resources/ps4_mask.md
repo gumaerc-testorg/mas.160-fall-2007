@@ -5,7 +5,7 @@ description: Supplement to a problem set on simple psychoacoustic masking, Marko
   This MATLAB code performs a simple psychoacoustic masking test by creating bandlimited
   noise around 1000 Hz and a single sinusoid at frequency f with amplitude A. It then
   plays the noise alone, and then the noise plus the sinusoid.
-file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/9b31a985f2984fb71394326cdcade4d2_ps4_mask.m
+file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/9b31a985f2984fb71394326cdcade4d2_ps4_mask.m
 file_size: 1118
 file_type: text/plain
 learning_resource_types:
