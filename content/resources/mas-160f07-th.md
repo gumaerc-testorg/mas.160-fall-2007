@@ -5,7 +5,7 @@ description: "This course explores the mathematical foundations of digital media
   \ the phrase \"How much wood can a woodchuck chuck?\" (iPod photo courtesy of \xBB\
   \ GUM \xAB.)"
 draft: false
-file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/204a83fb05fbda8baf448b1a7f44f0e7_mas-160f07-th.jpg
+file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/204a83fb05fbda8baf448b1a7f44f0e7_mas-160f07-th.jpg
 file_size: 2246
 file_type: image/jpeg
 image_metadata:
