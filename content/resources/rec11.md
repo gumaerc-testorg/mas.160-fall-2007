@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation notes on inverse Z-transform, zeros, partial fraction expansion,
   long division, the discrete Fourier transform, and the fast Fourier transform.
-file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/772afa66726a50bd092452fd9ba53ac2_rec11.pdf
+file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/772afa66726a50bd092452fd9ba53ac2_rec11.pdf
 file_size: 1367997
 file_type: application/pdf
 learning_resource_types:
