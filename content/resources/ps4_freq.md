@@ -3,7 +3,7 @@ content_type: resource
 description: Supplementary data file for a problem set on simple psychoacoustic masking,
   Markoff processes, entropy, and grading, entropy coding, error correction, and data
   compression.
-file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/7285709752a6fe119eec8464d51bc999_ps4_freq.txt
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/7285709752a6fe119eec8464d51bc999_ps4_freq.txt
 file_size: 210
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation handout on using MATLAB for the course.
-file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/c89d6b542f7a34eb5c6f33342a20c176_rec2_matlab_help.pdf
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/c89d6b542f7a34eb5c6f33342a20c176_rec2_matlab_help.pdf
 file_size: 128645
 file_type: application/pdf
 learning_resource_types:
