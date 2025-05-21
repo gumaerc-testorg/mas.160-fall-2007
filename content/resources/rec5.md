@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation notes on C-to-D conversion, folding, aliasing, resampling,
   unsharp mask, and psychoacoustics.
-file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/1bb9e76aaffed02e9ea8fe93ddd69a90_rec5.pdf
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/1bb9e76aaffed02e9ea8fe93ddd69a90_rec5.pdf
 file_size: 576333
 file_type: application/pdf
 learning_resource_types:

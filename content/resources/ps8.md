@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on inverse z-transforms, utilizing the z-transform, discrete
   Fourier transforms (DFT), inverse DFT, and convolution.
-file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/a758a02ea3385d78b2884238f4ef66ba_ps8.pdf
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/a758a02ea3385d78b2884238f4ef66ba_ps8.pdf
 file_size: 242813
 file_type: application/pdf
 learning_resource_types:
