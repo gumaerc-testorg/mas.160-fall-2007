@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on phase and time shifting, switching between frequency-domain
   and time-domain, Fourier series, and digital signal processing.
-file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/8100b11d0824d7cdd9b92271141bb35c_ps2.pdf
+file: /ol-ocw-studio-app/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/8100b11d0824d7cdd9b92271141bb35c_ps2.pdf
 file_size: 149730
 file_type: application/pdf
 learning_resource_types:
