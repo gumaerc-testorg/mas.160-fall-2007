@@ -20,7 +20,7 @@ Texts
 
 \[MSY\] McClellan, J. H., R. W. Schafer, and M. A. Yoder. _DSP First: A Multimedia Approach_. East Rutherford, NJ: Prentice Hall, 1998. ISBN: 9780132431712.
 
-Shannon, C. E., and W. Weaver. _The Mathematical Theory of Communication_. Champaign, IL: University of Illinois Press, 1998. ISBN: 9780252725463. \[Download a copy of the {{% resource_link "2d8a90d2-3231-4e6e-81ed-c9994f5e2047" "original 1948 paper by Shannon (PDF)" %}}, upon which the book is based, from Bell Labs.\]
+Shannon, C. E., and W. Weaver. _The Mathematical Theory of Communication_. Champaign, IL: University of Illinois Press, 1998. ISBN: 9780252725463. \[Download a copy of the [original 1948 paper by Shannon (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), upon which the book is based, from Bell Labs.\]
 
 ### Recommended for those who want more help
 
